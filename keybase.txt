@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pranavlodha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://plodha.github.io
+  * I am pranavlodha (https://keybase.io/pranavlodha) on keybase.
+  * I have a public key ASBqQO5rahcvkbUJ7Ao5ysgwoQoPMCyUYOY0XJKVEc_O0go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012022a08b867e20fbb159bb255eb4c4201d94d407b74da13989582d35fd24c64f610a",
+      "host": "keybase.io",
+      "kid": "01206a40ee6b6a172f91b509ec0a39cac830a10a0f302c9460e6345c929511cfced20a",
+      "uid": "d1072a0ce4a5f2444ffd241691759b19",
+      "username": "pranavlodha"
+    },
+    "merkle_root": {
+      "ctime": 1579913037,
+      "hash": "133dae8d4321e940f885aac020783d84ed4c9f998200d77a1372517c4c484726037cf99753589e8b34fa349283093dba82d103006bb8b927fdf5c678d8ade85d",
+      "hash_meta": "d31b965a37357c87da0401812b392656eed13fe5998a6936ad562dbb6be5ee6a",
+      "seqno": 14356936
+    },
+    "service": {
+      "entropy": "XBlijVZGXSa0jWPoA11rBFLQ",
+      "hostname": "plodha.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579913046,
+  "expire_in": 504576000,
+  "prev": "3cfb94f7c669190ff75b75cff34d807bf04d90ddaf3708618a8fbb24a04c0cbf",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgakDua2oXL5G1CewKOcrIMKEKDzAslGDmNFySlRHPztIKp3BheWxvYWTESpcCD8QgPPuU98ZpGQ/3W3XP802Ae/BNkN2vNwhhio+7JKBMDL/EIAyEKsN6dHEmSpBiKDnKWW2VoeRWCrwWpjyCiDL4qm13AgHCo3NpZ8RAinRDgtl7SLbAGz2QTgmJEeP/iMNa612q6g47VXi+cfn2aAVGp1S6CPpNAH13cfbtnwJVrpiDXROlzlkkUPJ/D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJCtOsgw3PA/Rtw3uf+INootxCek1kJvIlfROyksLM5Bo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pranavlodha
+
+==================================================================
