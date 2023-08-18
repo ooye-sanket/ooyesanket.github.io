@@ -1,3 +1,4 @@
-# Pranav Lodha Website
-plodha.github.io
-Pranav Lodha's Personal Website
+# Sanket Kalekar Website
+sanketkalekar.github.io
+Sanketkalekar Personal Website
+
